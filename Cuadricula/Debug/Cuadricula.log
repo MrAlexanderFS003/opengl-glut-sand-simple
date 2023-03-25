@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Programación Vacacional\GitHub\Cuadricula\Cuadricula\Cuadrado.h(13,54): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Programación Vacacional\GitHub\Cuadricula\Cuadricula\Cuadrado.h(14,54): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Programación Vacacional\GitHub\Cuadricula\Cuadricula\Cuadrado.h(16,44): warning C4244: 'return': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Programación Vacacional\GitHub\Cuadricula\Cuadricula\Cuadrado.h(17,44): warning C4244: 'return': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Programación Vacacional\GitHub\Cuadricula\Cuadricula\Pared.h(11,54): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Programación Vacacional\GitHub\Cuadricula\Cuadricula\Pared.h(12,54): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Programación Vacacional\GitHub\Cuadricula\Cuadricula\Pared.h(14,44): warning C4244: 'return': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Programación Vacacional\GitHub\Cuadricula\Cuadricula\Pared.h(15,44): warning C4244: 'return': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Programación Vacacional\GitHub\Cuadricula\Cuadricula\main.cpp(82,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Programación Vacacional\GitHub\Cuadricula\Cuadricula\main.cpp(90,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Programación Vacacional\GitHub\Cuadricula\Cuadricula\main.cpp(133,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Programación Vacacional\GitHub\Cuadricula\Cuadricula\main.cpp(134,25): warning C4018: '<': no coinciden signed/unsigned
+C:\Programación Vacacional\GitHub\Cuadricula\Cuadricula\main.cpp(187,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Programación Vacacional\GitHub\Cuadricula\Cuadricula\main.cpp(200,21): warning C4018: '<': no coinciden signed/unsigned
+  Cuadricula.vcxproj -> C:\Programación Vacacional\GitHub\Cuadricula\Debug\Cuadricula.exe
